@@ -1,0 +1,30 @@
+{
+  "name": "Focii-ChromeExtension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tot121212/Focii-ChromeExtension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tot121212/Focii-ChromeExtension/issues"
+  },
+  "homepage": "https://github.com/tot121212/Focii-ChromeExtension#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.345"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^13.0.0",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.7.3",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  },
+  "description": ""
+}
